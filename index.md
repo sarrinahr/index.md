@@ -5,7 +5,7 @@
 <p>This is my paragraph. My name is Sarrinah. I am 14 years old. I am in eigth grade.</p>
 <br>
 <ol>
-<li> food 
+ <li style="color:Yellow;"><b>Food</b> 
 <ul>
 <li> bread</li>
 <li> Chips</li>
@@ -19,4 +19,3 @@
 </ul>
 </li>
 </ol>
-
