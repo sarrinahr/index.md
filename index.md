@@ -21,7 +21,7 @@
 <source src="https://www.youtube.com/watch?v=ZfVapyLbXD0">
 </video>
 <br>
-<table border="1" style="width:30px">
+<table border="1">
  <tr>
   <td>Book</td>
   <td>Page</td>
