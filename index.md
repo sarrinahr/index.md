@@ -2,7 +2,7 @@
 <br>
 <h2>Header 2</h2>
 <br>
-<p style="color:Red;">This is my paragraph. My name is Sarrinah. I am 14 years old. I am in eigth grade.</p>
+<p><i>This is my paragraph. My name is Sarrinah. I am 14 years old. I am in eigth grade.</i></p>
 <br>
 <ol>
  <li style="color:Orange;"><b>Food</b>
