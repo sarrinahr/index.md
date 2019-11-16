@@ -16,5 +16,4 @@
 <ul>
 <li> Golf</li>
 <li> Soccer</li>
-</ul>
-</li>
+
