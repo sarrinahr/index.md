@@ -21,9 +21,10 @@
 <source src="https://www.youtube.com/watch?v=ZfVapyLbXD0">
 </video>
 <br>
-<table style="width: 300px">
+<table border="1" style="width: 300px">
  <tr>
   <td>Jack</td>
   <td>Sales</td>
   <td>555-5555</td>
  </tr>
+
