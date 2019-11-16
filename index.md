@@ -16,18 +16,19 @@
 <ul>
 <li> Golf</li>
 <li> Soccer</li>
+ </li>
  <br>
 <video width="320" height="240" controls>
 <source src="https://www.youtube.com/watch?v=ZfVapyLbXD0">
 </video>
 <br>
 <table border="1">
- <tr style="background-color:blue;">
+ <tr style="bgcolor:blue;">
   <td>Book</td>
   <td>Page</td>
   <td>Chapter</td>
  </tr>
- <tr style="background-color:green;">
+ <tr style="bgcolor:green;">
   <td>Divergent</td>
   <td>59</td>
   <td>5</td>
