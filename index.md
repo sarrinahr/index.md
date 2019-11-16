@@ -30,5 +30,5 @@
  <tr>
   <td>Divergent</td>
   <td>59</td>
-  <td>5<td>
+  <td>5</td>
  </tr>
