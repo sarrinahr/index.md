@@ -16,5 +16,5 @@
 <ul>
 <li> Golf</li>
 <li> Soccer</li>
-
-<video scr="https://www.youtube.com/watch?v=ZfVapyLbXD0"></video>
+<iframe width="420" height="345" src="https://www.youtube.com/watch?v=ZfVapyLbXD0">
+</iframe>
