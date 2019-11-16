@@ -21,13 +21,13 @@
 <source src="https://www.youtube.com/watch?v=ZfVapyLbXD0">
 </video>
 <br>
-<table border="1" >
- <tr>
+<table border="1">
+ <tr style="color:Blue;">
   <td>Book</td>
   <td>Page</td>
   <td>Chapter</td>
  </tr>
- <tr>
+ <tr style="color:Green;">
   <td>Divergent</td>
   <td>59</td>
   <td>5</td>
