@@ -22,12 +22,12 @@
 </video>
 <br>
 <table border="1">
- <tr style="background-color:Blue;">
+ <tr style="background-color:blue;">
   <td>Book</td>
   <td>Page</td>
   <td>Chapter</td>
  </tr>
- <tr style="background-color:Green;">
+ <tr style="background-color:green;">
   <td>Divergent</td>
   <td>59</td>
   <td>5</td>
